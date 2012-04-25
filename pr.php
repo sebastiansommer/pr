@@ -1,6 +1,6 @@
 <?php
 /**
- * Pr - The ultimate debug function
+ * pr - The ultimate debug function
  * 
  * @author Sebastian Sommer <mail@sebastian-sommer.com>
  * @author Steffen Mächtel <mail@meffen.de>
