@@ -1,4 +1,4 @@
 pr
 ==
 
-Pr - The ultimate debug function
+The ultimate debug function
